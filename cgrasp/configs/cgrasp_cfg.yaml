@@ -1,0 +1,20 @@
+base_lr: 0.0005
+batch_size: 256
+cgrasp_model_path: null
+bps_size: 4096
+c_weights_path: 'cgrasp/configs/rhand_weight.npy'
+cuda_id: 0
+dataset_dir: null
+expr_ID: V00
+kl_coef: 0.005
+latentD: 16
+log_every_epoch: 2
+n_epochs: 500
+n_neurons: 512
+n_workers: 10
+reg_coef: 0.0005
+rhm_path: null
+seed: 4815
+try_num: 0
+vpe_path: 'cgrasp/configs/verts_per_edge.npy'
+
