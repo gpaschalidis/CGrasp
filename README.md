@@ -18,7 +18,7 @@ hand follows the specified direction.
 Clone the repository using:
 
 ```bash
-git clone git@github.com:gpaschalidis/cgrasp.git
+git clone git@github.com:gpaschalidis/CGrasp.git
 cd cgrasp
 ```
 Run the following commands:
