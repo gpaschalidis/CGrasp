@@ -19,7 +19,7 @@ Clone the repository using:
 
 ```bash
 git clone git@github.com:gpaschalidis/CGrasp.git
-cd cgrasp
+cd CGrasp
 ```
 Run the following commands:
 ```bash
@@ -65,7 +65,7 @@ you should have the structure below:
          └── subject_meshes
 ```
 
-- To test CGrasp you need the pre-trained refinenet model from GrabNet. Download this model from the [GRAB website](https://grab.is.tue.mpg.de), 
+- To test CGrasp you need the pre-trained RefineNet model from GrabNet. Download this model from the [GRAB website](https://grab.is.tue.mpg.de), 
 and move it in the folder "pretrained" as described below:
 ```bash
      cgrasp
