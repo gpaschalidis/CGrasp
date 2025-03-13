@@ -83,7 +83,7 @@ python train.py --config_path cgrasp/configs/cgrasp_cfg.yaml --data_path GRAB/da
 ## Test Grasp
 To try CGrasp and visualize the generated grasps together with the input grasp directions:
 
-- First download our pre-trained model from [here](https://docs.google.com/forms/d/1tpUAQms4sAHOj87bsKhPAsCffCj74Y0cD-ywi7pxB_E/edit) and place it in the folder "pretrained". The folder "pretrained" should have the following structure:
+- First download our pre-trained model from [here](https://docs.google.com/forms/d/e/1FAIpQLSeEljlokQ_WxJoDYEjbLgzq4vjx-FgMrLnErNqVhvefDw2Ycg/viewform?usp=dialog) and place it in the folder "pretrained". The folder "pretrained" should have the following structure:
 ```bash
      cgrasp
         └── cgrasp
